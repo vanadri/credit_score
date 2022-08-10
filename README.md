@@ -1,7 +1,7 @@
 # Data Scientist Intern Final Project - Home Credit Indonesia
 *Project purpose:* Credit Score Prediction using Classification Machine Learning.
 
-Number of Features: 63
+Number of Features: 63<br>
 Target Data: Target (1 - client with payment difficulties; 0 - all other cases)
 
 Classification machine learning methods used:
